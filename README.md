@@ -24,7 +24,7 @@ sudo systemctl enable --now syncthing@user
 git clone https://aur.archlinux.org/pikaur.git
 cd pikaur
 makepkg -fsri
-pikaur -S brave-bin enpass-bin sublime-text-4
+pikaur -S i3lock-color brave-bin enpass-bin sublime-text-4
 ```
 
 Credits
